@@ -1,4 +1,4 @@
-// Student Number: YOUR_STUDENT_NUMBER
+
 
 var makes = ["VW", "BMW", "Benz", "Audi", "Ford", "Toyota"];
 
